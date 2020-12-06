@@ -1,0 +1,14 @@
+.mainContainer {
+  background-color: #f9f9f9;
+  flex: 0.8;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.mainContainer__title {
+  margin-bottom: 20px;
+}
+.mainContainer__video {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+}
